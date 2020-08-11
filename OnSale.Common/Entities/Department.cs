@@ -4,10 +4,9 @@ using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.Text;
 
-
 namespace OnSale.Common.Entities
 {
-    public class Country
+   public  class Department
     {
         public int Id { get; set; }
 
@@ -15,11 +14,10 @@ namespace OnSale.Common.Entities
         [MaxLength(50)]
         public string Name { get; set; }
 
-        public ICollection<Department> Department { get; set; }
+        public ICollection<city> Cities { get; set; }
 
-        [DisplayName("Departments Number")]
-        public int DepartmentsNumber => Department == null ? 0 : Department.Count;
+        [DisplayName("Cities Number")]
+        public int CitiesNumber => Cities == null ? 0 : Cities.Count;
 
     }
-
 }
