@@ -1,0 +1,9 @@
+C:\Users\0s4k4\source\repos\OnSale\OnSale.Common\bin\Debug\netstandard2.0\OnSale.Common.deps.json
+C:\Users\0s4k4\source\repos\OnSale\OnSale.Common\bin\Debug\netstandard2.0\OnSale.Common.dll
+C:\Users\0s4k4\source\repos\OnSale\OnSale.Common\obj\Debug\netstandard2.0\OnSale.Common.csprojAssemblyReference.cache
+C:\Users\0s4k4\source\repos\OnSale\OnSale.Common\obj\Debug\netstandard2.0\OnSale.Common.AssemblyInfoInputs.cache
+C:\Users\0s4k4\source\repos\OnSale\OnSale.Common\obj\Debug\netstandard2.0\OnSale.Common.AssemblyInfo.cs
+C:\Users\0s4k4\source\repos\OnSale\OnSale.Common\bin\Debug\netstandard2.0\OnSale.Common.pdb
+C:\Users\0s4k4\source\repos\OnSale\OnSale.Common\obj\Debug\netstandard2.0\OnSale.Common.csproj.CoreCompileInputs.cache
+C:\Users\0s4k4\source\repos\OnSale\OnSale.Common\obj\Debug\netstandard2.0\OnSale.Common.dll
+C:\Users\0s4k4\source\repos\OnSale\OnSale.Common\obj\Debug\netstandard2.0\OnSale.Common.pdb

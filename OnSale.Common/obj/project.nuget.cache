@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "N+P84Ae/oS4emm4GMKdltJRwwccYRkeAxNF+WWYe8ox6mfc5cFM6XOuAlzeXGx9lgMhQ6KuKwiRHvGN3J2xhOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\0s4k4\\source\\repos\\OnSale\\OnSale.Common\\OnSale.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\0s4k4\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\0s4k4\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\0s4k4\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
