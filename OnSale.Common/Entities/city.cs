@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
 namespace OnSale.Common.Entities
@@ -12,5 +13,8 @@ namespace OnSale.Common.Entities
         [Required]
         [MaxLength(50)]
         public string Name { get; set; }
+
+        [NotMapped]
+        public int IdDepartment { get; set; }
     }
 }
